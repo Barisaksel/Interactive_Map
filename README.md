@@ -8,9 +8,9 @@ In addition, using the openweathermap api, we can view the temperature values in
 ![image](https://github.com/Barisaksel/Interactive_Map/assets/71844178/c6ce3a5d-1b25-4ffd-887f-2cd02aafa7dc)
 
 Required Modules:
-folium
-pandas
-requests
+folium,
+pandas,
+requests,
 re
 
 To run :
